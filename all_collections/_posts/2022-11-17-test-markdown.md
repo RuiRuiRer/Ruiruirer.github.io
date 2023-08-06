@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test Post
+title: 测试帖子
 date: 2022-11-17
-categories: ["Test Post"]
+categories: ["测试"]
 ---
 
-# My first website!
+# 第一个网站!
 
 Hello world!

@@ -2,7 +2,7 @@
 layout: post
 title:  考了个试呢。
 date: 2022-11-24
-categories: ["Blog", "中文"]
+categories: ["博客", "中文"]
 ---
 
 # 今天的心情有一点点糟糕

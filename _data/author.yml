@@ -7,8 +7,9 @@ description: "
   <p>
     如果你能看到，说明你很厉害！
   </p>
+  <br>
   <p>
-    <br><s>这里的内容是跟原版的同步更新的哟！</s>只是这里可能会多一点中文的内容，不希望别人看到的东西！
+    <span style='text-decoration: line-through'>这里的内容是跟原版的同步更新的哟！</span>只是这里可能会多一点中文的内容，不希望别人看到的东西！
   </p>
 "
 contact:
